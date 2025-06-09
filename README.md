@@ -46,6 +46,14 @@ Unless you have specific reasons for using Lithium 5 (such as for development pu
 
 - Timmkoo Q8
 
+## ⛔ Known issues
+
+There are some currently known issues with Lithium 7, which we are working on fixing. Some of these are:
+
+- Full SD card error when taking screenshots (depends on installation, flashing clean `userdata.img` may fix this)
+- NVRAM Error in WiFi picker (does not affect functionality)
+- Settings crashes when trying to update
+
 ## 🤝 Support
 
 If you have any issues using or installing Lithium, or would like to learn more, feel free to join our **[Discord server](https://discord.gg/3zbfaTNN7V)** and get involved! We are always looking for people interested in contributing to the project too, if you have any experience in Android development or would like to learn, join us!
