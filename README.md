@@ -3,6 +3,10 @@ Lithium is a custom Android-based operating system for MediaTek-powered Timmkoo 
 
 [<img src="https://github.com/user-attachments/assets/7fe76dd2-d329-420f-a809-7424960cf766">](https://discord.gg/3zbfaTNN7V)
 
+## ⚠ NOTE: This repository is for Lithium 5. The latest version of Lithium is [Lithium 7](https://github.com/NoahDomingues/Lithium).
+
+Unless you have specific reasons for using Lithium 5 (such as for development purposes), we strongly recommend you download **[Lithium 7](https://github.com/NoahDomingues/Lithium).**
+
 ## 🧪 Lithium 5: The Ultimate Android 5-based Operating System
 
 **[Lithium 5](https://lithium.timmkoo.de)** is the latest custom operating system from the Lithium project, providing a seamless user experience with high performance and jam-packed with features. Lithium 5 is based on the **[Android Open-Source Project (AOSP) version 5.0 Lollipop](https://developer.android.com/about/versions/lollipop)**, adapted specifically for Timmkoo and Innioasis devices.
